@@ -59,7 +59,8 @@ This will create an executable in the `dist/` folder.
 
 ## 📩 Contact
 
-Developed by **Nishant**. Feel free to reach out at nishant.kum.dev@gamil.com for any query or suggestion.
+Developed by **Nishant & Abhishek**. Feel free to reach out at nishant.kum.dev@gamil.com or abhishek.y1753@gmail
+.com for any query or suggestion.
 
 ---
 ⚡ Happy Coding! ⚡
