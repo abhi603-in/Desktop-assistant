@@ -1,0 +1,14 @@
+requests
+pyttsx3
+os
+subprocess
+webbrowser
+speech_recognition
+random
+os
+re
+threading
+PySide6.QtWidgets
+vosk
+sounddevice
+json
